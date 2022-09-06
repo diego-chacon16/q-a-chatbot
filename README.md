@@ -24,3 +24,5 @@ Full Details: https://research.fb.com/downloads/babi/
 + Question: Is Mike in the store?
 
 + Goal - Bot to answer: No
+
++ But also for the bot to state the level of certainty when answering the question
